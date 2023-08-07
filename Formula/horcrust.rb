@@ -1,4 +1,4 @@
-class Tle < Formula
+class Horcrust < Formula
     desc "Horcrust is a command-line-tool which splits a file into encrypted shards for safekeeping. As long as the specified threshold is met, a user can resurrect their original file at any time - no password necessary."
     homepage "https://github.com/codycline/horcrux-rs"
     url "https://github.com/CodyCline/horcrux-rs/releases/download/v1.1.0/horcrust-v1.1.0-apple-darwin.tar.gz"
