@@ -1,9 +1,9 @@
-# Homebrew Tap
+# Homebrew Taps
 
 
-# Brew formula for horcrust 
+# Brew formulas
 
+# Install horcrust
 ```
-brew tap codycline/tap
-brew install horcrust
+brew install codycline/taps/horcrust
 ```
